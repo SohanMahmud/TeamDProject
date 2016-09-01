@@ -288,7 +288,7 @@ public class HomeLogIn extends Base {
         sleepFor(10);
         clickByCss("#findFriendsNav");
         sleepFor(10);
-        clickByID("findFriendsNav");
+        clickById("findFriendsNav");
         sleepFor(10);
     }
 
@@ -298,7 +298,7 @@ public class HomeLogIn extends Base {
     @Test
     public void ClickNewsFeed1()throws InterruptedException{
         typeByCss("#email", "teamdautomation@gmail.com");
-        sleepFor(5);;
+        sleepFor(5);
         clickByCss("._5afe");
         sleepFor(10);
     }
