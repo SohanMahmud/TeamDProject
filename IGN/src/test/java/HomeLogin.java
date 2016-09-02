@@ -7,206 +7,190 @@ import org.testng.annotations.Test;
  */
 public class HomeLogin extends Base {
 
-//    @Test
-//    public void Search() throws InterruptedException {
-//
-//        typeByCssNEnter("#search-input", "Donkey Kong");
-//        sleepFor(3);
-//
-//    }
-//
-//    @Test
-//    public void ClickShows() throws InterruptedException {
-//        clickByXpath(".//*[@id='ign-shows']/a");
-//        sleepFor(3);
-//
-//    }
-//    @Test
-//public void HoverBrowse() throws InterruptedException {
-//    mouseHoverByXpath(".//*[@id='browse-button']");
-//    sleepFor(3);
-//    mouseHoverByXpath(".//*[@id='ign-shows']/a");
-//    sleepFor(3);
-//}
-//
-//
-//    @Test
-//    public void ClickReviews() throws InterruptedException {
-//        clickByXpath(".//*[@id='header-nav']/div[2]/li[3]/a");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void ClickPs4() throws InterruptedException {
-//        clickByXpath(".//*[@id='header-nav']/div[2]/li[4]/a");
-//        sleepFor(3);
-//
-//    }
-//
-//    @Test
-//
-//    public void ClickXbone() throws InterruptedException {
-//        clickByXpath(".//*[@id='header-nav']/div[2]/li[5]/a");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void ClickPc() throws InterruptedException {
-//        clickByXpath(".//*[@id='header-nav']/div[2]/li[6]/a");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void ClickWiiU() throws InterruptedException {
-//        clickByXpath(".//*[@id='header-nav']/div[2]/li[7]/a");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void ClickMovies() throws InterruptedException {
-//        clickByXpath(".//*[@id='header-nav']/div[2]/li[8]/a");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void ClickTv() throws InterruptedException {
-//        clickByXpath(".//*[@id='header-nav']/div[2]/li[9]/a");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void scrollToLoadMore() throws InterruptedException {
-//        scrollToElementById("loadMore");
-//        sleepFor(4);
-//        clickById("loadMore");
-//        sleepFor(4);
-//        clickById("loadMore");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//    public void login() throws InterruptedException {
-//    sleepFor(5);
-//      clickByLink("Sign in");
-//        sleepFor(5);
-//        clickByXpath(".//*[@id='email']");
-//      typeByXpath(".//*[@id='email']", "rselpnt");
-//        sleepFor(3);
-//        typeByXpathEnter(".//*[@id='password']", "trainpnt");
-//        sleepFor(4);
-//
-//
-//
-//
-//    }
-//
-//    @Test
-//
-//    public void contentTeam () throws InterruptedException {
-//        clickByXpath(".//*[@id='ignFooter-container']/footer/div[1]/div[1]/div[1]/ul[1]/li[2]/a");
-//        sleepFor(3);
-//
-//        clickByXpath("html/body/div[4]/div[2]/div[2]/div[3]/div[6]/span");
-//        sleepFor(3);
-//        clickByXpath("html/body/div[4]/div[2]/div[2]/div[3]/div[6]/a");
-//        sleepFor(3);
-//    }
-//    @Test
-//
-//    public void scrollFiveTimes() throws InterruptedException {
-//
-//        int x = 5;
-//
-//        for (x = 1; x <= 5; x++) {
-//            scrollToElementById("loadMore");
-//            sleepFor(5);
-//            clickById("loadMore");
-//            sleepFor(5);
-//            x++;
-//
-//        }
-//    }
-//    @Test
-//
-//    public void changeRegion() throws InterruptedException {
-//
-//        clickByXpath("html/body/header/div/div/div[2]");
-//        sleepFor(3);
-//        clickByClass("local-region.United Kingdom");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void standardsAndPractices() throws InterruptedException {
-//
-//        clickByLink("Standards and Practices");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void sendUsNews() throws InterruptedException {
-//
-//        clickByLink("Send Us News");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void siteMap () throws InterruptedException {
-//
-//        clickByLink("Site Map");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void IgnWorldMap() throws InterruptedException {
-//
-//        clickByLink("IGN World Map");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void Adria() throws InterruptedException{
-//
-//        clickByLink("Adira");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void Africa() throws InterruptedException {
-//
-//        clickByXpath("html/body/div[5]/footer/div[1]/div[1]/div[1]/ul[2]/li[5]/a");
-//        sleepFor(3);
-//    }
-//
-//    @Test
-//
-//    public void Australia() throws InterruptedException {
-//
-//
-//        clickByXpath("html/body/div[5]/footer/div[1]/div[1]/div[1]/ul[2]/li[6]/a");
-//        sleepFor(3);
-//
-//    }
-//
-//    @Test
-//
-//    public void Brazil() throws InterruptedException {
-//
-//        clickByXpath("html/body/div[5]/footer/div[1]/div[1]/div[1]/ul[2]/li[7]/a");
-//        sleepFor(3);
-//    }
+    @Test
+    public void Search() throws InterruptedException {
+
+        typeByCssNEnter("#search-input", "Donkey Kong");
+        sleepFor(3);
+
+    }
+
+    @Test
+    public void ClickShows() throws InterruptedException {
+        clickByXpath(".//*[@id='ign-shows']/a");
+        sleepFor(3);
+
+    }
+    @Test
+public void HoverBrowse() throws InterruptedException {
+    mouseHoverByXpath(".//*[@id='browse-button']");
+    sleepFor(3);
+    mouseHoverByXpath(".//*[@id='ign-shows']/a");
+    sleepFor(3);
+}
+
+
+    @Test
+    public void ClickReviews() throws InterruptedException {
+        clickByXpath(".//*[@id='header-nav']/div[2]/li[3]/a");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void ClickPs4() throws InterruptedException {
+        clickByXpath(".//*[@id='header-nav']/div[2]/li[4]/a");
+        sleepFor(3);
+
+    }
+
+    @Test
+
+    public void ClickXbone() throws InterruptedException {
+        clickByXpath(".//*[@id='header-nav']/div[2]/li[5]/a");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void ClickPc() throws InterruptedException {
+        clickByXpath(".//*[@id='header-nav']/div[2]/li[6]/a");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void ClickWiiU() throws InterruptedException {
+        clickByXpath(".//*[@id='header-nav']/div[2]/li[7]/a");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void ClickMovies() throws InterruptedException {
+        clickByXpath(".//*[@id='header-nav']/div[2]/li[8]/a");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void ClickTv() throws InterruptedException {
+        clickByXpath(".//*[@id='header-nav']/div[2]/li[9]/a");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void scrollToLoadMore() throws InterruptedException {
+        scrollToElementById("loadMore");
+        sleepFor(4);
+        clickById("loadMore");
+        sleepFor(4);
+        clickById("loadMore");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void contentTeam () throws InterruptedException {
+        clickByXpath(".//*[@id='ignFooter-container']/footer/div[1]/div[1]/div[1]/ul[1]/li[2]/a");
+        sleepFor(3);
+
+        clickByXpath("html/body/div[4]/div[2]/div[2]/div[3]/div[6]/span");
+        sleepFor(3);
+        clickByXpath("html/body/div[4]/div[2]/div[2]/div[3]/div[6]/a");
+        sleepFor(3);
+    }
+    @Test
+
+    public void scrollFiveTimes() throws InterruptedException {
+
+        int x = 5;
+
+        for (x = 1; x <= 5; x++) {
+            scrollToElementById("loadMore");
+            sleepFor(5);
+            clickById("loadMore");
+            sleepFor(5);
+            x++;
+
+        }
+    }
+    @Test
+
+    public void changeRegion() throws InterruptedException {
+
+        clickByXpath("html/body/header/div/div/div[2]");
+        sleepFor(3);
+        clickByClass("local-region.United Kingdom");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void standardsAndPractices() throws InterruptedException {
+
+        clickByLink("Standards and Practices");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void sendUsNews() throws InterruptedException {
+
+        clickByLink("Send Us News");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void siteMap () throws InterruptedException {
+
+        clickByLink("Site Map");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void IgnWorldMap() throws InterruptedException {
+
+        clickByLink("IGN World Map");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void Adria() throws InterruptedException{
+
+        clickByLink("Adira");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void Africa() throws InterruptedException {
+
+        clickByXpath("html/body/div[5]/footer/div[1]/div[1]/div[1]/ul[2]/li[5]/a");
+        sleepFor(3);
+    }
+
+    @Test
+
+    public void Australia() throws InterruptedException {
+
+
+        clickByXpath("html/body/div[5]/footer/div[1]/div[1]/div[1]/ul[2]/li[6]/a");
+        sleepFor(3);
+
+    }
+
+    @Test
+
+    public void Brazil() throws InterruptedException {
+
+        clickByXpath("html/body/div[5]/footer/div[1]/div[1]/div[1]/ul[2]/li[7]/a");
+        sleepFor(3);
+    }
 
     @Test
 
