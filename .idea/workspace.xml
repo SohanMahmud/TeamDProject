@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902bd7b7-c25e-4b68-b09e-9676bca62cfa" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/data/facebookFriends.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/SearchFB/HomeLogIn.class" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/SearchFB/HomeLogIn.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/common/Base.class" afterPath="$PROJECT_DIR$/Generic/target/classes/common/Base.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IGN/target/IGN-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/IGN/target/IGN-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wikipedia/target/Wikipedia-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Wikipedia/target/Wikipedia-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iFixit/target/ifixit-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/iFixit/target/ifixit-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/test/java/SearchFB/HomeLogIn.java" afterPath="$PROJECT_DIR$/Facebook/src/test/java/SearchFB/HomeLogIn.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" afterPath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/FacebookRunner.xml" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/FacebookRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="TeamDAutomation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,21 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="functionality.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wikipedia/src/test/java/FrontPage/functionality.java">
+      <file leaf-file-name="HomeLogIn.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/SearchFB/HomeLogIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WikipediaRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wikipedia/src/test/resources/WikipediaRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="-6339">
+              <caret line="435" column="0" selection-start-line="435" selection-start-column="0" selection-end-line="435" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,28 +54,20 @@
       <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6125">
-              <caret line="312" column="43" selection-start-line="312" selection-start-column="43" selection-end-line="312" selection-end-column="43" />
-              <folding />
+            <state relative-caret-position="8550">
+              <caret line="382" column="0" selection-start-line="382" selection-start-column="0" selection-end-line="382" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeLogIn.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/SearchFB/HomeLogIn.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="217" column="5" selection-start-line="217" selection-start-column="5" selection-end-line="217" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Repair.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iFixit/src/test/java/maintenance/Repair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6000">
-              <caret line="249" column="0" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+            <state relative-caret-position="1400">
+              <caret line="56" column="25" selection-start-line="52" selection-start-column="11" selection-end-line="56" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -112,20 +105,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Wikipedia/pom.xml" />
         <option value="$PROJECT_DIR$/IGN/pom.xml" />
         <option value="$PROJECT_DIR$/Facebook/pom.xml" />
         <option value="$PROJECT_DIR$/IGN/src/test/resources/IGNRunner.xml" />
         <option value="$PROJECT_DIR$/iFixit/pom.xml" />
         <option value="$PROJECT_DIR$/Wikipedia/src/main/java/Wiki/SetUp.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/common/something.java" />
         <option value="$PROJECT_DIR$/iFixit/src/test/iFixitRunner.xml" />
         <option value="$PROJECT_DIR$/iFixit/src/test/resources/Ifixitrunner.xml" />
         <option value="$PROJECT_DIR$/iFixit/src/test/java/maintenance/Repair.java" />
         <option value="$PROJECT_DIR$/Wikipedia/src/test/java/FrontPage/functionality.java" />
         <option value="$PROJECT_DIR$/Wikipedia/src/test/resources/WikipediaRunner.xml" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/java/SearchFB/HomeLogIn.java" />
       </list>
@@ -151,6 +144,30 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
       </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="WebAppAutomation" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="WebAppAutomation" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
     </treeState>
   </component>
   <component name="MavenRunner">
@@ -158,8 +175,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
+    <option name="y" value="8" />
     <option name="width" value="1378" />
-    <option name="height" value="744" />
+    <option name="height" value="720" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -186,7 +204,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -215,59 +232,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="iFixit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TeamDProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TeamDProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iFixit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TeamDProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TeamDProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iFixit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="maintenance" />
+              <option name="myItemId" value="Generic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -284,6 +249,40 @@
               <option name="myItemId" value="Generic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Generic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -318,6 +317,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -351,10 +354,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Facebook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -377,7 +399,7 @@
       <recent name="C:\Users\Polok\workspace-July2016\Team-D-Automation\iFixit\src" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml">
     <configuration default="false" name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Facebook" />
@@ -434,39 +456,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="functionality" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="FrontPage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Wikipedia" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="FrontPage" />
-      <option name="MAIN_CLASS_NAME" value="FrontPage.functionality" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
     <configuration default="false" name="something" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -498,6 +487,39 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="HomeLogIn" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SearchFB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Facebook" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="SearchFB" />
+      <option name="MAIN_CLASS_NAME" value="SearchFB.HomeLogIn" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -790,17 +812,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" />
       <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.functionality" />
-      <item index="3" class="java.lang.String" itemvalue="Application.something" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/iFixit/src/test/resources/Ifixitrunner.xml" />
+      <item index="2" class="java.lang.String" itemvalue="Application.something" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/iFixit/src/test/resources/Ifixitrunner.xml" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.HomeLogIn" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/iFixit/src/test/resources/Ifixitrunner.xml" />
-        <item index="3" class="java.lang.String" itemvalue="Application.something" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.functionality" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.HomeLogIn" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/iFixit/src/test/resources/Ifixitrunner.xml" />
+        <item index="4" class="java.lang.String" itemvalue="Application.something" />
       </list>
     </recent_temporary>
   </component>
@@ -836,66 +858,66 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 21h 45m 21s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_admin_Microwave_TeamDAutomation_Facebook_src_test_resources_FacebookRunner_xml - 2016.09.01 at 21h 41m 41s.xml">
+      <configuration name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 21h 58m 54s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_admin_Microwave_TeamDAutomation_Facebook_src_test_resources_FacebookRunner_xml - 2016.09.01 at 21h 45m 51s.xml">
+      <configuration name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 22h 09m 47s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_admin_Microwave_TeamDAutomation_Facebook_src_test_resources_FacebookRunner_xml - 2016.09.01 at 21h 48m 29s.xml">
+      <configuration name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 22h 30m 32s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_admin_Microwave_TeamDAutomation_Facebook_src_test_resources_FacebookRunner_xml - 2016.09.01 at 21h 53m 44s.xml">
+      <configuration name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 22h 34m 31s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_admin_Microwave_TeamDAutomation_Facebook_src_test_resources_FacebookRunner_xml - 2016.09.01 at 21h 54m 50s.xml">
+      <configuration name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 22h 43m 46s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_admin_Microwave_TeamDAutomation_Facebook_src_test_resources_FacebookRunner_xml - 2016.09.01 at 21h 56m 27s.xml">
+      <configuration name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 22h 44m 37s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_admin_Microwave_TeamDAutomation_Facebook_src_test_resources_FacebookRunner_xml - 2016.09.01 at 21h 58m 06s.xml">
+      <configuration name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 22h 44m 52s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_admin_Microwave_TeamDAutomation_Facebook_src_test_resources_FacebookRunner_xml - 2016.09.01 at 22h 00m 43s.xml">
+      <configuration name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 22h 45m 04s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_admin_Microwave_TeamDAutomation_Facebook_src_test_resources_FacebookRunner_xml - 2016.09.01 at 22h 05m 43s.xml">
+      <configuration name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 22h 46m 28s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_admin_Microwave_TeamDAutomation_Facebook_src_test_resources_FacebookRunner_xml - 2016.09.02 at 00h 44m 20s.xml">
+      <configuration name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1378" height="744" extended-state="0" />
+    <frame x="-4" y="8" width="1378" height="720" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32649842" sideWeight="0.32418397" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.115326256" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4369085" sideWeight="0.675816" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49703264" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32649842" sideWeight="0.32418397" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3353566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49703264" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.675816" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18057664" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18057664" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.21587537" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48739496" sideWeight="0.21587537" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -919,7 +941,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Facebook/src/test/java/SearchFB/HomeLogIn.java</url>
-          <line>548</line>
+          <line>664</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
@@ -1198,14 +1220,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2148">
-          <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Wikipedia/src/main/java/Wiki/SetUp.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/annotations/Test.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -1221,14 +1235,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -1243,7 +1249,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1251,15 +1256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6125">
-          <caret line="312" column="43" selection-start-line="312" selection-start-column="43" selection-end-line="312" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1267,14 +1263,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6000">
           <caret line="249" column="0" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="56" column="25" selection-start-line="52" selection-start-column="11" selection-end-line="56" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8550">
+          <caret line="382" column="0" selection-start-line="382" selection-start-column="0" selection-end-line="382" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/SearchFB/HomeLogIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="217" column="5" selection-start-line="217" selection-start-column="5" selection-end-line="217" selection-end-column="5" />
+        <state relative-caret-position="-6339">
+          <caret line="435" column="0" selection-start-line="435" selection-start-column="0" selection-end-line="435" selection-end-column="0" />
           <folding />
         </state>
       </provider>
