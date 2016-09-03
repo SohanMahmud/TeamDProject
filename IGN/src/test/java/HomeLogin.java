@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
  */
 public class HomeLogin extends Base {
 
-    @Test
+    @Test(priority = 1)
     public void Search() throws InterruptedException {
 
         typeByCssNEnter("#search-input", "Donkey Kong");
@@ -15,13 +15,13 @@ public class HomeLogin extends Base {
 
     }
 
-    @Test
+    @Test(priority = 2)
     public void ClickShows() throws InterruptedException {
         clickByXpath(".//*[@id='ign-shows']/a");
         sleepFor(3);
 
     }
-    @Test
+    @Test(priority =  3)
 public void HoverBrowse() throws InterruptedException {
     mouseHoverByXpath(".//*[@id='browse-button']");
     sleepFor(3);
@@ -30,13 +30,13 @@ public void HoverBrowse() throws InterruptedException {
 }
 
 
-    @Test
+    @Test(priority = 4)
     public void ClickReviews() throws InterruptedException {
         clickByXpath(".//*[@id='header-nav']/div[2]/li[3]/a");
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 5)
 
     public void ClickPs4() throws InterruptedException {
         clickByXpath(".//*[@id='header-nav']/div[2]/li[4]/a");
@@ -44,42 +44,42 @@ public void HoverBrowse() throws InterruptedException {
 
     }
 
-    @Test
+    @Test(priority = 6)
 
     public void ClickXbone() throws InterruptedException {
         clickByXpath(".//*[@id='header-nav']/div[2]/li[5]/a");
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 7)
 
     public void ClickPc() throws InterruptedException {
         clickByXpath(".//*[@id='header-nav']/div[2]/li[6]/a");
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 8)
 
     public void ClickWiiU() throws InterruptedException {
         clickByXpath(".//*[@id='header-nav']/div[2]/li[7]/a");
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 9)
 
     public void ClickMovies() throws InterruptedException {
         clickByXpath(".//*[@id='header-nav']/div[2]/li[8]/a");
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 10)
 
     public void ClickTv() throws InterruptedException {
         clickByXpath(".//*[@id='header-nav']/div[2]/li[9]/a");
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 11)
 
     public void scrollToLoadMore() throws InterruptedException {
         scrollToElementById("loadMore");
@@ -90,18 +90,14 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 12)
 
     public void contentTeam () throws InterruptedException {
+
         clickByXpath(".//*[@id='ignFooter-container']/footer/div[1]/div[1]/div[1]/ul[1]/li[2]/a");
         sleepFor(3);
-
-        clickByXpath("html/body/div[4]/div[2]/div[2]/div[3]/div[6]/span");
-        sleepFor(3);
-        clickByXpath("html/body/div[4]/div[2]/div[2]/div[3]/div[6]/a");
-        sleepFor(3);
     }
-    @Test
+    @Test(priority = 13)
 
     public void scrollFiveTimes() throws InterruptedException {
 
@@ -116,7 +112,7 @@ public void HoverBrowse() throws InterruptedException {
 
         }
     }
-    @Test
+    @Test(priority = 14)
 
     public void changeRegion() throws InterruptedException {
 
@@ -126,7 +122,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 15)
 
     public void standardsAndPractices() throws InterruptedException {
 
@@ -134,7 +130,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 16)
 
     public void sendUsNews() throws InterruptedException {
 
@@ -142,7 +138,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 17)
 
     public void siteMap () throws InterruptedException {
 
@@ -150,7 +146,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 18)
 
     public void IgnWorldMap() throws InterruptedException {
 
@@ -158,15 +154,15 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 19)
 
     public void Adria() throws InterruptedException{
 
-        clickByLink("Adira");
+        clickByXpath("html/body/div[5]/footer/div[1]/div[1]/div[1]/ul[2]/li[4cd]/a");
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 20)
 
     public void Africa() throws InterruptedException {
 
@@ -174,7 +170,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 21)
 
     public void Australia() throws InterruptedException {
 
@@ -184,7 +180,7 @@ public void HoverBrowse() throws InterruptedException {
 
     }
 
-    @Test
+    @Test(priority = 22)
 
     public void Brazil() throws InterruptedException {
 
@@ -192,7 +188,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 23)
 
     public void Benelux() throws InterruptedException {
 
@@ -200,7 +196,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 24)
 
     public void Canada() throws InterruptedException {
 
@@ -208,7 +204,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 25)
 
     public void Denmark() throws InterruptedException {
 
@@ -216,7 +212,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 26)
 
     public void Finland() throws InterruptedException {
 
@@ -224,7 +220,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 27)
 
     public void France() throws InterruptedException {
 
@@ -232,7 +228,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 28)
 
     public void Germany() throws InterruptedException {
 
@@ -240,7 +236,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 29)
 
     public void Greece() throws InterruptedException {
 
@@ -248,7 +244,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 30)
 
     public void Hungary() throws InterruptedException {
 
@@ -256,7 +252,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 31)
 
     public void India() throws InterruptedException {
 
@@ -264,7 +260,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 32)
 
     public void Ireland() throws InterruptedException {
 
@@ -272,7 +268,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 33)
 
     public void Israel() throws InterruptedException {
 
@@ -280,7 +276,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 34)
 
     public void Italy() throws InterruptedException {
 
@@ -288,7 +284,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 35)
 
     public void Japan() throws InterruptedException {
 
@@ -296,7 +292,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 36)
 
     public void LatinAmerica() throws InterruptedException {
 
@@ -304,7 +300,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 37)
 
     public void MiddleEast() throws InterruptedException {
 
@@ -312,7 +308,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 38)
 
     public void Norway() throws InterruptedException {
 
@@ -320,7 +316,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 39)
 
     public void Pakistan() throws InterruptedException {
 
@@ -328,7 +324,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 40)
 
     public void Poland() throws InterruptedException {
 
@@ -336,7 +332,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 41)
 
     public void Portugal() throws InterruptedException {
 
@@ -344,7 +340,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 42)
 
     public void Romania() throws InterruptedException {
 
@@ -352,7 +348,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 43)
 
     public void Russia() throws InterruptedException {
 
@@ -360,7 +356,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 44)
 
     public void SouthEastAsia() throws InterruptedException {
 
@@ -368,7 +364,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 45)
 
     public void Spain() throws InterruptedException {
 
@@ -376,7 +372,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 46)
 
     public void Sweden() throws InterruptedException {
 
@@ -384,7 +380,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 47)
 
     public void Turkey() throws InterruptedException {
 
@@ -392,7 +388,7 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 48)
 
     public void UnitedKingdom() throws InterruptedException {
 
@@ -400,11 +396,19 @@ public void HoverBrowse() throws InterruptedException {
         sleepFor(3);
     }
 
-    @Test
+    @Test(priority = 49)
 
     public void UnitedStates() throws InterruptedException {
 
         clickByXpath("html/body/div[5]/footer/div[1]/div[1]/div[1]/ul[2]/li[34]/a");
+        sleepFor(3);
+    }
+
+    @Test(priority = 50)
+
+    public void Newsletter() throws InterruptedException {
+
+        clickByXpath("html/body/div[5]/footer/div[1]/div[1]/div[2]/a");
         sleepFor(3);
     }
 
