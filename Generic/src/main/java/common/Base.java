@@ -93,7 +93,7 @@ public class Base {
 
     @AfterMethod
     public void cleanUp() {
-        driver.quit();
+        driver.close();
     }
 
     //Click By Locator type
@@ -304,6 +304,7 @@ public class Base {
     public void waitUntilClickAble(By locator) {
         WebDriverWait wait = new WebDriverWait(driver, 10);
         WebElement element = wait.until(ExpectedConditions.elementToBeClickable(locator));
+
     }
 
     public void waitUntilVisible(By locator) {
