@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902bd7b7-c25e-4b68-b09e-9676bca62cfa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wikipedia/src/test/java/FrontPage/functionality.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iFixit/src/test/resources/Ifixitrunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/SearchFB/HomeLogIn.class" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/SearchFB/HomeLogIn.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/browser-driver/IEDriverServer.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/browser-driver/chromedriver.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/browser-driver/geckodriver.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IGN/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Wikipedia/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iFixit/target/maven-archiver/pom.properties" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/common/Base.class" afterPath="$PROJECT_DIR$/Generic/target/classes/common/Base.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iFixit/target/test-classes/maintenance/Repair.class" afterPath="$PROJECT_DIR$/iFixit/target/test-classes/maintenance/Repair.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/test/java/SearchFB/HomeLogIn.java" afterPath="$PROJECT_DIR$/Facebook/src/test/java/SearchFB/HomeLogIn.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" afterPath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/FacebookRunner.xml" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/FacebookRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wikipedia/src/test/resources/WikipediaRunner.xml" afterPath="$PROJECT_DIR$/Wikipedia/src/test/resources/WikipediaRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iFixit/iFixit.iml" afterPath="$PROJECT_DIR$/iFixit/iFixit.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iFixit/src/test/java/maintenance/Repair.java" afterPath="$PROJECT_DIR$/iFixit/src/test/java/maintenance/Repair.java" />
     </list>
     <ignored path="TeamDAutomation.iws" />
@@ -39,15 +40,13 @@
     <favorites_list name="TeamDAutomation" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="functionality.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wikipedia/src/test/java/FrontPage/functionality.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2123">
+            <state relative-caret-position="286">
               <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,26 +54,29 @@
       <file leaf-file-name="WikipediaRunner.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wikipedia/src/test/resources/WikipediaRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
+            <state relative-caret-position="440">
               <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Base.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
+            <state relative-caret-position="198">
               <caret line="312" column="43" selection-start-line="312" selection-start-column="43" selection-end-line="312" selection-end-column="43" />
-              <folding>
-                <element signature="e#4440#4441#0" expanded="true" />
-                <element signature="e#4512#4513#0" expanded="true" />
-                <element signature="e#5361#5369#0" expanded="true" />
-                <element signature="e#10623#10624#0" expanded="true" />
-                <element signature="e#10696#10697#0" expanded="true" />
-                <element signature="e#11408#11416#0" expanded="true" />
-              </folding>
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Repair.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iFixit/src/test/java/maintenance/Repair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="518" column="2" selection-start-line="518" selection-start-column="2" selection-end-line="518" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,11 +124,11 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/common/something.java" />
         <option value="$PROJECT_DIR$/iFixit/src/test/iFixitRunner.xml" />
         <option value="$PROJECT_DIR$/iFixit/src/test/resources/Ifixitrunner.xml" />
-        <option value="$PROJECT_DIR$/iFixit/src/test/java/maintenance/Repair.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/java/SearchFB/HomeLogIn.java" />
         <option value="$PROJECT_DIR$/Wikipedia/src/test/java/FrontPage/functionality.java" />
         <option value="$PROJECT_DIR$/Wikipedia/src/test/resources/WikipediaRunner.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" />
+        <option value="$PROJECT_DIR$/iFixit/src/test/java/maintenance/Repair.java" />
       </list>
     </option>
   </component>
@@ -150,39 +152,16 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
       </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="ifixit" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="ifixit" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
     </treeState>
   </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1364" />
-    <option name="height" value="744" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -209,29 +188,165 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Team-D-Automation" />
+              <option name="myItemId" value="TeamDProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Team-D-Automation" />
+              <option name="myItemId" value="TeamDProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Team-D-Automation" />
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iFixit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iFixit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iFixit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iFixit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Generic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamDProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Generic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,11 +355,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Team_D/Team-D-Automation/iFixit/src/test/java/maintenance/Repair.java" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Polok\workspace-July2016\Team-D-Automation\iFixit\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Polok\workspace-July2016\Team-D-Automation\iFixit\src\test" />
       <recent name="C:\Users\soren\Desktop\Team_D\Team-D-Automation\iFixit\src" />
@@ -252,8 +365,11 @@
       <recent name="C:\Users\admin\Microwave\TeamDAutomation\IGN\src\test" />
       <recent name="C:\Users\admin\Microwave\TeamDAutomation\Facebook\src\test" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Polok\workspace-July2016\Team-D-Automation\iFixit\src" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/soren/Desktop/newRepo/TeamDProject/iFixit/src/test/resources/iFixitTestRunner.xml (1)">
     <configuration default="false" name="C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Facebook" />
@@ -310,19 +426,19 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="functionality" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Repair" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="FrontPage.*" />
+          <option name="PATTERN" value="maintenance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Wikipedia" />
+      <module name="iFixit" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="FrontPage" />
-      <option name="MAIN_CLASS_NAME" value="FrontPage.functionality" />
+      <option name="PACKAGE_NAME" value="maintenance" />
+      <option name="MAIN_CLASS_NAME" value="maintenance.Repair" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -343,32 +459,40 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="something" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="common.something" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Generic" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="C:/Users/Polok/workspace-July2016/Team-D-Automation/iFixit/src/test/resources/Ifixitrunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="C:/Users/soren/Desktop/newRepo/TeamDProject/iFixit/src/test/resources/iFixitTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="iFixit" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/iFixit/src/test/resources/Ifixitrunner.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/iFixit/src/test/resources/iFixitTestRunner.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="C:/Users/soren/Desktop/newRepo/TeamDProject/iFixit/src/test/resources/iFixitTestRunner.xml (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="iFixit" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/iFixit/src/test/resources/iFixitTestRunner.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -666,17 +790,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" />
       <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.functionality" />
-      <item index="3" class="java.lang.String" itemvalue="Application.something" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/iFixit/src/test/resources/Ifixitrunner.xml" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.Repair" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/soren/Desktop/newRepo/TeamDProject/iFixit/src/test/resources/iFixitTestRunner.xml" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/soren/Desktop/newRepo/TeamDProject/iFixit/src/test/resources/iFixitTestRunner.xml (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/iFixit/src/test/resources/Ifixitrunner.xml" />
-        <item index="3" class="java.lang.String" itemvalue="Application.something" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.functionality" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/soren/Desktop/newRepo/TeamDProject/iFixit/src/test/resources/iFixitTestRunner.xml (1)" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/soren/Desktop/newRepo/TeamDProject/iFixit/src/test/resources/iFixitTestRunner.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.Repair" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/admin/Microwave/TeamDAutomation/Facebook/src/test/resources/FacebookRunner.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -712,15 +836,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 21h 45m 21s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 21h 58m 54s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 22h 09m 47s.xml">
-      <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 22h 30m 32s.xml">
       <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -742,24 +857,36 @@
     <history-entry file="C__Users_Polok_workspace-July2016_Team-D-Automation_Wikipedia_src_test_resources_WikipediaRunner_xml - 2016.08.31 at 22h 46m 28s.xml">
       <configuration name="C:/Users/Polok/workspace-July2016/Team-D-Automation/Wikipedia/src/test/resources/WikipediaRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_soren_Desktop_newRepo_TeamDProject_iFixit_src_test_resources_iFixitTestRunner_xml - 2016.09.03 at 11h 05m 48s.xml">
+      <configuration name="C:/Users/soren/Desktop/newRepo/TeamDProject/iFixit/src/test/resources/iFixitTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_soren_Desktop_newRepo_TeamDProject_iFixit_src_test_resources_iFixitTestRunner_xml_(1) - 2016.09.04 at 09h 41m 30s.xml">
+      <configuration name="C:/Users/soren/Desktop/newRepo/TeamDProject/iFixit/src/test/resources/iFixitTestRunner.xml (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Repair - 2016.09.03 at 10h 49m 08s.xml">
+      <configuration name="Repair" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1364" height="744" extended-state="0" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.21587537" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.21587537" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32649842" sideWeight="0.32418397" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1120178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1109375" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49703264" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4369085" sideWeight="0.675816" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43139407" sideWeight="0.675816" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1810089" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -768,7 +895,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -801,13 +927,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
@@ -1100,7 +1219,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1109,16 +1227,6 @@
         <state relative-caret-position="362">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iFixit/src/test/java/maintenance/Repair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1132,7 +1240,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wikipedia/src/test/resources/WikipediaRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="440">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
@@ -1140,26 +1248,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wikipedia/src/test/java/FrontPage/functionality.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2123">
+        <state relative-caret-position="286">
           <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/Base.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
+        <state relative-caret-position="198">
           <caret line="312" column="43" selection-start-line="312" selection-start-column="43" selection-end-line="312" selection-end-column="43" />
-          <folding>
-            <element signature="e#4440#4441#0" expanded="true" />
-            <element signature="e#4512#4513#0" expanded="true" />
-            <element signature="e#5361#5369#0" expanded="true" />
-            <element signature="e#10623#10624#0" expanded="true" />
-            <element signature="e#10696#10697#0" expanded="true" />
-            <element signature="e#11408#11416#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Team_D/Team-D-Automation/iFixit/src/test/java/maintenance/Repair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10282">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iFixit/src/test/java/maintenance/Repair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="518" column="2" selection-start-line="518" selection-start-column="2" selection-end-line="518" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
