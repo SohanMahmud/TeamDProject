@@ -77,6 +77,7 @@
 
 
     <profiles>
+
         <profile>
             <id>wikipedia</id>
             <modules>
@@ -92,6 +93,7 @@
                 <module>iFixit</module>
             </modules>
         </profile>
+
         <profile>
             <id>facebook</id>
             <modules>
@@ -99,6 +101,7 @@
                 <module>Facebook</module>
             </modules>
         </profile>
+
         <profile>
             <id>IGN</id>
             <modules>
@@ -106,6 +109,7 @@
                 <module>IGN</module>
             </modules>
         </profile>
+
         <profile>
             <id>ebay</id>
             <modules>
@@ -116,6 +120,7 @@
 
 
         <profile>
+
             <id>default</id>
             <activation>
                 <jdk>1.8</jdk>
@@ -127,9 +132,10 @@
                 <module>iFixit</module>
                 <module>IGN</module>
                 <module>Ebay</module>
-
             </modules>
+
         </profile>
+
     </profiles>
 
 </project>
