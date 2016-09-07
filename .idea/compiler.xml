@@ -33,7 +33,7 @@
       <module name="Facebook" target="1.5" />
       <module name="Generic" target="1.5" />
       <module name="iFixit" target="1.5" />
-      <module name="IGN" target="1.5" />
+      <module name="IGN" target="1.8" />
       <module name="TeamDAutomation" target="1.5" />
       <module name="Wikipedia" target="1.5" />
     </bytecodeTargetLevel>

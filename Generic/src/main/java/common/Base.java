@@ -10,6 +10,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.remote.server.handler.WebElementHandler;
 import org.openqa.selenium.remote.server.handler.interactions.touch.Scroll;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
@@ -249,6 +250,10 @@ public void typeByCss(String locator, String value) {
       driver.switchTo().frame(element);
    }
 
+   public void iFrameHandleCss(WebElement element, String locator) {
+       driver.switchTo().frame(element).findElement(By.cssSelector(locator));
+
+    }
    public void goBackToHomeWindow(){
       driver.switchTo().defaultContent();
    }
@@ -301,7 +306,13 @@ public void typeByCss(String locator, String value) {
      WebElement element = driver.findElement(By.id(locator));
      JavascriptExecutor je = (JavascriptExecutor)driver;
      je.executeScript("arguments[0].scrollIntoView(true)",element);
+
 }
+    public void scrollToElementByXpath(String locator) {
+        WebElement element = driver.findElement(By.xpath(locator));
+        JavascriptExecutor je = (JavascriptExecutor)driver;
+        je.executeScript("arguments[0].scrollIntoView(true)",element);
+    }
 
 public void byLinks (String locator) {
     driver.findElement(By.linkText(locator)).click();

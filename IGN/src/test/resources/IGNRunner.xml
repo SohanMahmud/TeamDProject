@@ -4,8 +4,8 @@
 <suite name="IGN News Network" parallel="tests">
 
     <parameter name="useCloudEnv" value="false"/>
-    <parameter name="userName" value=""/>
-    <parameter name="accessKey" value=""/>
+    <parameter name="userName" value="Roobtoob787"/>
+    <parameter name="accessKey" value="496b93db-5a87-473c-8350-8415f957c65c"/>
     <parameter name="os" value="Win8"/>
     <parameter name="browserName" value="chrome"/>
     <parameter name="browserVersion" value="46.0"/>
@@ -13,7 +13,8 @@
 
     <test name = "IGN functions">
         <classes>
-            <class name="HomeLogin"/>
+            <!--<class name="HomeLogin"/>-->
+            <class name="Login"/>
         </classes>
     </test>
 
