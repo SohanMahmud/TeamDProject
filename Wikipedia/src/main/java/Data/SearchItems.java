@@ -18,6 +18,7 @@ public class SearchItems {
     public void searchFor(String item){
         searchInput.sendKeys(item, Keys.ENTER);
     }
+
     public void clearSearchInput(){
         searchInput.clear();
     }
