@@ -126,6 +126,7 @@
                 <module>Facebook</module>
                 <module>iFixit</module>
                 <module>IGN</module>
+                <module>Ebay</module>
 
             </modules>
         </profile>
